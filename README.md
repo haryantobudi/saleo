@@ -1,2 +1,2 @@
 # saleo
-Salatiga Eelectronic Office
+Salatiga Electronic Office
